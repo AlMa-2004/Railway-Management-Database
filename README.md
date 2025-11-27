@@ -17,3 +17,6 @@ I chose to create a database project for managing railway operations because thi
 This setup allows the web interface to communicate with the MySQL database, providing a user-friendly interface for managing trains, routes, employees, stations, tickets, and other operational data.
 
 ---
+
+## Notes
+- The project is **fully in Romanian**. A complete English translation is **not yet available**.
