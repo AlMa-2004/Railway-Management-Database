@@ -1,6 +1,6 @@
 # Railway Company Management Database
 
-Railway Company Management database with a Flask interface for CRUD operations on entities.
+Railway Company Management database with a Flask interface for CRUD operations on entities, created for the Databases university course.
 
 ## Motivation
 I chose to create a database project for managing railway operations because this topic has become an important part of my weekly routine. As a frequent user of railway transport services, I have always been curious to understand what happens behind the scenes to ensure the smooth functioning of this complex system.
